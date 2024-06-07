@@ -1,0 +1,50 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Figma",
+    "imageSrc": "skills/figma.png"
+  },
+  {
+    "title": "C#",
+    "imageSrc": "skills/Csharppng.png"
+  },
+  {
+    "title": "MS SQL",
+    "imageSrc": "skills/Mssql.png"
+  },
+  {
+    "title": "api.net",
+    "imageSrc": "skills/NET.png"
+  },
+  {
+    "title": "bootstrap",
+    "imageSrc": "skills/Bootstrap.png"
+  },
+  {
+    "title": "Gimp",
+    "imageSrc": "skills/gimp.png"
+  },
+  {
+    "title": "blender",
+    "imageSrc": "skills/blender.png"
+  }
+]

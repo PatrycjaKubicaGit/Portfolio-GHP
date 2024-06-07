@@ -1,0 +1,30 @@
+[
+  {
+    "role": "Projekty studenckie",
+    "organisation": "https://github.com/PatrycjaKubicaGit",
+    "startDate": "10.2021",
+    "endDate": "obecnie",
+    "experiences": ["Tworzenie projektów w różnych technologiach", "Współpraca z rówiesnikami"],
+    "imageSrc": "history/ubb.png"
+  },
+  {
+    "role": "Zarządca Ofert",
+    "organisation": "B365.PL",
+    "startDate": "02.2020",
+    "endDate": "03.2020",
+    "experiences": ["Zarządzanie i aktualizacja ofert drukarek na platformie Allegro.", "Monitorowanie i analiza trendów rynkowych.", "Utrzymywanie aktualnej wiedzy o produktach i technologiach drukarek."],
+    "imageSrc": "history/B365.png"
+  },
+  {
+    "role": "Kierowca/Kurier",
+    "organisation": "(praca w firmie rodzinnej)",
+    "startDate": "2020",
+    "endDate": "2023, okresy wakacyjne",
+    "experiences": [
+      "Dostarczanie posiłków do klientów.",
+      "Nadzór pracowników w procesie pakowania zamówień.",
+      "Rozliczanie i komunikacja z klientami."
+    ],
+    "imageSrc": "history/none.png"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Strona internetowa biura wycieczek",
+    "imageSrc": "projects/TourAgency.PNG",
+    "description": "Strona została stworzona w api.net MVC, posiada role, edycję tabel, oraz lokalizację",
+    "skills": ["C#", "MVC", "MS SQL", "ASP"],
+    "source": "https://github.com/PatrycjaKubicaGit/Studia/tree/main/TourAgency"
+  },
+  {
+    "title": "Strona internetowa dla EscapeRooms (frontend)",
+    "imageSrc": "projects/ecaperooms.PNG",
+    "description": "Platforma umożliwiająca klientom rezerwację pokojów Escape Room.",
+    "skills": ["C#", "Bootstrap", "ASP", "JS"],
+    "source": "https://github.com/KamilaKmiecik/EscapeRoom"
+  },
+  {
+    "title": "Strona do edycji kolekcji w MongoDB",
+    "imageSrc": "projects/SZB.PNG",
+    "description": "Prosta aplikacja pozwalająca na dodawanie, edycje oraz usuwanie książek z koleckji books",
+    "skills": ["MogoDB", "C#", "ASP"],
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "Lista ToDo",
+    "imageSrc": "projects/todo.PNG",
+    "description": "Prosta aplikacja listy todo pozwalającej dodawać i odchaczyć rzeczy do zrobienia",
+    "skills": ["React", "MongoDB"],
+    "source": "https://github.com/PatrycjaKubicaGit/Todolist-githubPages"
+  },
+  {
+    "title": "Design strony małej firmy",
+    "imageSrc": "projects/Figma.PNG",
+    "description": "Design strony dla małej firmy z własnorecznie zaprojektowanym logiem",
+    "skills": ["Figma", "Inkscape"],
+    "source": "https://www.figma.com/file/fsWeuPoQr5knIF7IfZ13hM/Strona-produktu?node-id=1%3A2"
+  },
+  {
+    "title": "Programowanie sterowników PLC",
+    "imageSrc": "projects/Pac.PNG",
+    "description": "Oprogramowanie do steroania windą, manipulatorem 3D oraz sygnalizatora",
+    "skills": ["PLC"],
+    "source": "https://github.com/PatrycjaKubicaGit/Studia/tree/main/Projekty%20oprogramowania%20PAC"
+  }
+]
